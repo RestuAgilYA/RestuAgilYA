@@ -23,13 +23,6 @@ Hello, I'm Restu 👋. <br>I am a Deep Learning Engineer with a strong foundatio
 [![](https://visitcount.itsvg.in/api?id=RestuAgilYA&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RestuAgilYA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RestuAgilYA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 <h2 align="left">Play game with me!</h2>
 
 <picture>
