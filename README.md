@@ -9,9 +9,9 @@ Hello, I'm Restu 👋. <br>I am a Deep Learning Engineer with a strong foundatio
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RestuAgilYA&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800&v=1" height="150"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RestuAgilYA&layout=compact&theme=dracula&cache_seconds=1800&v=1" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RestuAgilYA&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150"/>
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=RestuAgilYA&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ## 🏆 GitHub Trophies
